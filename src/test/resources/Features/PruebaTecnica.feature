@@ -1,5 +1,5 @@
-Feature: Prueba Tecnica
-  Scenario Outline: Shopping
+Feature: Prueba QA
+  Scenario Outline: Search car
 
     Given the user in <page> o <navigator>
     Then the user search <product> 
